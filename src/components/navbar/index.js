@@ -15,7 +15,7 @@ return (
 		<NavLink to="/blogs" activeStyle>
 			Blogs
 		</NavLink>
-		<NavLink to="/sign-up" activeStyle>
+		<NavLink to="/signup" activeStyle>
 			Sign Up
 		</NavLink>
 		</NavMenu>

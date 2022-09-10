@@ -21,7 +21,7 @@ const Webpages = () => {
           <Routes>
         	  <Route exact path="/" element= {<About/>} />
         	  <Route path = "/blogs" element = {<Blogs/>} />
-        	  <Route path = "/favorites" element = {<SignUp/>} />
+        	  <Route path = "/signup" element = {<SignUp/>} />
           </Routes>
 			  </Layout>
 		</Router>
